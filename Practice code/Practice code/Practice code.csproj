@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice_code.Part_93_Protecting_shared_resources_from_concurrent_access_in_multithreading</StartupObject>
+    <StartupObject>Practice_code.Part_94_Difference_between_Monitor_and_lock_in_Csharp</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Part 92 Significance of Thread Join and Thread IsAlive functions.cs" />
     <Compile Include="Part 93 Protecting shared resources from concurrent access in multithreading.cs" />
+    <Compile Include="Part 94 Difference between Monitor and lock in Csharp.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
