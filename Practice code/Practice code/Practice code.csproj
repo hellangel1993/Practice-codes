@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice_code.Part_92_Significance_of_Thread_Join_and_Thread_IsAlive_functions</StartupObject>
+    <StartupObject>Practice_code.Part_93_Protecting_shared_resources_from_concurrent_access_in_multithreading</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Part 92 Significance of Thread Join and Thread IsAlive functions.cs" />
+    <Compile Include="Part 93 Protecting shared resources from concurrent access in multithreading.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
