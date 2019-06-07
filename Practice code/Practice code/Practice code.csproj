@@ -50,6 +50,7 @@
     <Compile Include="Part 93 Protecting shared resources from concurrent access in multithreading.cs" />
     <Compile Include="Part 94 Difference between Monitor and lock in Csharp.cs" />
     <Compile Include="Part 95 Deadlock in a multithreaded program.cs" />
+    <Compile Include="Part 96 How to resolve a deadlock in a multithreaded program.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
